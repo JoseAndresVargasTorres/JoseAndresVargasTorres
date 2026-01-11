@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-andres-vargas-torres-43020228b/)
-[![Email](https://img.shields.io/badge/Email-tamiguisimo@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tamiguisimo@gmail. com)
+[![Email](https://img.shields.io/badge/Email-tamiguisimo@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tamiguisimo@gmail.com)
 [![Location](https://img.shields.io/badge/Location-San%20José,%20Costa%20Rica-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
 </div>
@@ -24,15 +24,15 @@ I'm a **Computer Engineering student** at the Costa Rica Institute of Technology
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C? style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Technologies
-![.NET](https://img.shields.io/badge/.NET-512BD4? style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4? style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
@@ -68,26 +68,12 @@ I'm a **Computer Engineering student** at the Costa Rica Institute of Technology
 ## 🎓 Education
 
 **Computer Engineering**  
-Costa Rica Institute of Technology | *Expected:  July 2027*
+Costa Rica Institute of Technology | *Expected: July 2027*
 - Currently in 6th year
 - Focus on software development, embedded systems, and data structures
 
 **High School Diploma**  
 Sagrado Corazón High School | *Graduated with honors*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![José's GitHub stats](https://github-readme-stats.vercel. app/api?username=JoseAndresVargasTorres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresVargasTorres&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats. herokuapp. com/?user=JoseAndresVargasTorres&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -104,14 +90,14 @@ Sagrado Corazón High School | *Graduated with honors*
 
 ## 🌐 Languages
 
-- 🇪🇸 **Spanish**:  Native
+- 🇪🇸 **Spanish**: Native
 - 🇺🇸 **English**: Intermediate (Level 12/15 - Continuing training)
 
 ---
 
 ## 📫 How to reach me
 
-- 📧 Email:  tamiguisimo@gmail. com
+- 📧 Email: tamiguisimo@gmail.com
 - 📱 Phone: +506 8368 9388
 - 📍 Location: San Juan, Tibás, San José, Costa Rica
 - 🔗 LinkedIn: [jose-andres-vargas-torres](https://www.linkedin.com/in/jose-andres-vargas-torres-43020228b/)
@@ -120,7 +106,7 @@ Sagrado Corazón High School | *Graduated with honors*
 
 ## ⚡ Fun Fact
 
-Beyond coding, I'm passionate about table tennis!  🏓 I coach high-performance athletes and compete at the national level, which has taught me discipline, strategy, and teamwork—skills I bring to every project I work on. 
+Beyond coding, I'm passionate about table tennis! 🏓 I coach high-performance athletes and compete at the national level, which has taught me discipline, strategy, and teamwork—skills I bring to every project I work on.
 
 ---
 
