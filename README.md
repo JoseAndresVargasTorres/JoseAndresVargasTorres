@@ -1,7 +1,7 @@
 # 👋 Hi! I'm José Andrés Vargas Torres
 
 **Computer Engineering Student @ TEC 🇨🇷**  
-*Specializing in software development and technical solutions with a focus on problem-solving and agile learning.*
+*Advanced student specializing in software development with solid experience in technical support and sports leadership. I excel in problem-solving under pressure and quickly adapting to new technologies. Combining technical expertise with a disciplined approach forged through competitive environments to contribute value to dynamic teams.*
 
 ---
 
