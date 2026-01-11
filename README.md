@@ -1,7 +1,7 @@
-# 👋 Hi!  I'm José Andrés Vargas Torres
+# 👋 Hi! I'm José Andrés Vargas Torres
 
 **Computer Engineering Student @ TEC 🇨🇷**  
-*Advanced student specializing in software development with solid experience in technical support and sports leadership.  I excel in problem-solving under pressure and quickly adapting to new technologies.  Combining technical expertise with a disciplined approach forged through competitive environments to contribute value to dynamic teams.*
+*Advanced student specializing in software development with solid experience in technical support and sports leadership. I excel in problem-solving under pressure and quickly adapting to new technologies. Combining technical expertise with a disciplined approach forged through competitive environments to contribute value to dynamic teams.*
 
 ---
 
@@ -23,8 +23,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frameworks & Tech:**  
-![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031? style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -39,7 +39,7 @@
 
 ## 🌟 Featured Projects
 
-#### 💻 **[MESI Cache Coherence Simulator](https://github.com/JoseAndresVargasTorres/Proyecto-01-MP-MESI-ArquitecturadeComputadoresII-II25)**
+### 💻 [MESI Cache Coherence Simulator](https://github.com/JoseAndresVargasTorres/Proyecto-01-MP-MESI-ArquitecturadeComputadoresII-II25)
 *Full-stack multiprocessor system simulation implementing MESI protocol*  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=gnu&logoColor=white)
@@ -51,9 +51,9 @@
 
 ---
 
-#### ⚡ **[Synchronized Process Communication](https://github.com/JoseAndresVargasTorres/Proyecto1-Comunicaci-n-de-procesos-sincronizada)**
+### ⚡ [Synchronized Process Communication](https://github.com/JoseAndresVargasTorres/Proyecto1-Comunicaci-n-de-procesos-sincronizada)
 *Efficient synchronization techniques for shared resources in heavy processes*  
-![C](https://img.shields.io/badge/C-00599C? style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-FF6B6B?style=flat-square)
 
 - Implemented **advanced synchronization** techniques to solve race conditions between heavy processes
@@ -63,12 +63,12 @@
 
 ---
 
-#### 🏈 **[NFL Fantasy Football Platform](https://github.com/Caro186/dise-o_NFL)**
+### 🏈 [NFL Fantasy Football Platform](https://github.com/Caro186/dise-o_NFL)
 *Full-stack sports management platform with microservices architecture*  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![. NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 - Developed a **complete full-stack application** for NFL fantasy football management
@@ -82,7 +82,7 @@
 
 ---
 
-#### ☕ **[CoffeeBeanFlow - Automated Coffee Drying System](https://github.com/Robotics-and-Automation-Society-TEC/CoffeeBeanFlow-Project)**
+### ☕ [CoffeeBeanFlow - Automated Coffee Drying System](https://github.com/Robotics-and-Automation-Society-TEC/CoffeeBeanFlow-Project)
 *AI-powered automation for coffee processing optimization*  
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=internet-of-things&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -91,7 +91,7 @@
 - Collaborative project with **Robotics and Automation Society @ TEC**
 - Developing an **automated system** for predicting and optimizing coffee drying processes
 - Integrating **sensors, databases, and AI** for intelligent process control
-- Contributing to **software & AI team**:  database design and predictive algorithms
+- Contributing to **software & AI team**: database design and predictive algorithms
 - Applying **IoT concepts** and embedded systems integration
 
 ---
