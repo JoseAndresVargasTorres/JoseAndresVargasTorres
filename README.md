@@ -150,13 +150,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAndresVargasTorres&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresVargasTorres&layout=compact&theme=tokyonight&langs_count=8)
-
----
 
 ## 🎓 Relevant Coursework
 
